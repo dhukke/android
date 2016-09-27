@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeiraApp</string>
+    <string name="name">Nome</string>
+    <string name="btn_sucesso">Sucesso</string>
+</resources>
